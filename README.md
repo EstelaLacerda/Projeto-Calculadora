@@ -26,20 +26,24 @@ Este projeto é uma calculadora simples que realiza operações básicas como ad
    git clone https://github.com/EstelaLacerda/Projeto-Calculadora.git
 
 2. Navegue até o diretório do projeto:
+   ```bash
    cd Projeto-Calculadora
 
-3.Abra o arquivo index.html nno navegador de sua preferência
+3. Abra o arquivo 'index.html' no navegador de sua preferência
 
 ### Interface Desktop:
-1. Verifique se já tem o Python instalado
+1. Verifique se você já tem o Python instalado.
 
 2. Clone o repositório:
+   ```bash
    git clone https://github.com/EstelaLacerda/Projeto-Calculadora.git
 
-3. NAvegue até o diretório do projeto:
+3. Navegue até o diretório do projeto:
+   ```bash
    cd Projeto-Calculadora
 
 4. Execute o script 'calculadora.py':
+   ```bash
    python calculadora.py
 
 
